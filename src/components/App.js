@@ -27,7 +27,7 @@ class App extends Component {
                 >
                   <img src={logo} className="App-logo" alt="logo" />
                 </a>
-                <h1>ETH Swap Starter Kit</h1>
+                <h1>ETH Swap 2.0</h1>
                 <p>
                   Edit <code>src/components/App.js</code> and save to reload.
                 </p>
