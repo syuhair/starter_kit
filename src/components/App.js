@@ -13,7 +13,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            ETH Swap
+            ETH Swap 2.0
           </a>
         </nav>
         <div className="container-fluid mt-5">
